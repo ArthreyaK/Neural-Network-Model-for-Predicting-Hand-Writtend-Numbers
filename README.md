@@ -1,6 +1,6 @@
 # Handwritten MNIST Number Prediction with Neural Network
 
-![MNIST Neural Network](mnist_neural_network.png)
+![MNIST Neural Network](Neural network model.jpg)
 
 ## Description
 
