@@ -1,5 +1,6 @@
 # Handwritten MNIST Number Prediction with Neural Network
 
+![MNIST](https://github.com/ArthreyaK/Neural-Network-Model-for-Predicting-Hand-Writtend-Numbers/blob/main/MNIST.jpg)
 ![MNIST Neural Network](https://github.com/ArthreyaK/Neural-Network-Model-for-Predicting-Hand-Writtend-Numbers/blob/main/Neural%20network%20model.jpg)
 
 ## Description
